@@ -1,0 +1,27 @@
+{
+  "name": "frontend-dataset",
+  "version": "1.0.0",
+  "description": "CSS Properties & HTML Tags dataset!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randfun/frontend-dataset.git"
+  },
+  "keywords": [
+    "dataset",
+    "frontend",
+    "rand.fun"
+  ],
+  "author": "Joan León <joan.leon@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/randfun/frontend-dataset/issues"
+  },
+  "homepage": "https://github.com/randfun/frontend-dataset#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
